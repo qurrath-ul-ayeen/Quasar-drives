@@ -23,7 +23,7 @@ Quasar-drives is a simple car showroom web application built with PHP, HTML and 
 5. Create the tables (example SQL below) or import the provided `.sql` file if present.
 6. Update the database credentials in `connect.php` if needed.
 7. Visit in your browser:
-  http://localhost/Quasar drives/
+  http://localhost/Quasar_drives/
 
 ## Files (common)
 - `index.php` — Inventory listing / home page
